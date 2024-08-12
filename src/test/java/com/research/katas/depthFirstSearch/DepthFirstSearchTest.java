@@ -2,8 +2,7 @@ package com.research.katas.depthFirstSearch;
 
 import org.junit.jupiter.api.Test;
 
-import com.katas.binaryTree.BinaryTree;
-import com.katas.depthFirstSearch.DepthFirstSearch;
+import com.research.katas.binaryTree.BinaryTree;
 
 public class DepthFirstSearchTest {
 

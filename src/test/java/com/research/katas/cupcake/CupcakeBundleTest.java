@@ -2,12 +2,10 @@ package com.research.katas.cupcake;
 
 import org.junit.jupiter.api.Test;
 
-import com.katas.cupcake.Cookie;
-import com.katas.cupcake.Cupcake;
-import com.katas.cupcake.bundle.FoodBundle;
-import com.katas.cupcake.toppings.ChocolateTopping;
-import com.katas.cupcake.toppings.NutsTopping;
-import com.katas.cupcake.toppings.SugarTopping;
+import com.research.katas.cupcake.bundle.FoodBundle;
+import com.research.katas.cupcake.toppings.ChocolateTopping;
+import com.research.katas.cupcake.toppings.NutsTopping;
+import com.research.katas.cupcake.toppings.SugarTopping;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

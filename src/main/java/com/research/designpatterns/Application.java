@@ -3,23 +3,23 @@ package com.research.designpatterns;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.research.designpatterns.adapter.Helicopter;
-import com.research.designpatterns.adapter.HelicopterAdapter;
 import com.research.designpatterns.adapter.Minivan;
-import com.research.designpatterns.adapter.Vehicle;
 import com.research.designpatterns.decorator.Mozzarella;
 import com.research.designpatterns.decorator.Pizza;
 import com.research.designpatterns.decorator.PlainPizza;
 import com.research.designpatterns.decorator.TomatoSauce;
-import com.research.designpatterns.factory.Car;
 import com.research.designpatterns.factory.Golf;
-import com.research.designpatterns.factory.Polo;
 import com.research.designpatterns.factory.VolkswagenFactory;
-import com.research.designpatterns.singleton.Singleton;
 import com.research.designpatterns.strategy.Boat;
 import com.research.designpatterns.strategy.CargoPlane;
 import com.research.designpatterns.template.Sandwich;
 import com.research.designpatterns.template.VegetarianSandwich;
+import com.research.designpatterns.adapter.Helicopter;
+import com.research.designpatterns.adapter.HelicopterAdapter;
+import com.research.designpatterns.adapter.Vehicle;
+import com.research.designpatterns.factory.Car;
+import com.research.designpatterns.factory.Polo;
+import com.research.designpatterns.singleton.Singleton;
 
 import lombok.extern.slf4j.Slf4j;
 

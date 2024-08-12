@@ -2,10 +2,8 @@ package com.research.katas.cupcake;
 
 import org.junit.jupiter.api.Test;
 
-import com.katas.cupcake.Cookie;
-import com.katas.cupcake.Cupcake;
-import com.katas.cupcake.toppings.ChocolateTopping;
-import com.katas.cupcake.toppings.NutsTopping;
+import com.research.katas.cupcake.toppings.ChocolateTopping;
+import com.research.katas.cupcake.toppings.NutsTopping;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
